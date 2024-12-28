@@ -24,7 +24,7 @@ Follow the steps below to clone and run the project in your local environment:
 1. Clone repository:
 
     ```bash
-    git clone https://github.com/Akbarwp/Laravel-SPK-TOPSIS.git
+    git clone https://github.com/RirinIndryn/web_topsis
     ```
 
 2. Install dependencies use Composer and NPM:
